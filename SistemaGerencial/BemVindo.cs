@@ -10,22 +10,11 @@ using System.Windows.Forms;
 
 namespace SistemaGerencial
 {
-    public partial class frmLogin : Form
+    public partial class frmBemVindo : Form
     {
-        public frmLogin()
+        public frmBemVindo()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            frmBemVindo bv = new frmBemVindo();
-            bv.Show();
         }
     }
 }
