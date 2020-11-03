@@ -24,8 +24,26 @@ namespace SistemaGerencial
 
         private void button1_Click(object sender, EventArgs e)
         {
-            frmBemVindo bv = new frmBemVindo();
-            bv.Show();
+            if (txtLogin.Text == "admin" && txtSenha.Text == "admin")
+            {
+                frmBemVindo bv = new frmBemVindo();
+                bv.Show();
+            }
+            else
+            {
+                MessageBox.Show("Login e Senha Invalidos!");
+            }
+        }
+
+        private void btnLimpar_Click(object sender, EventArgs e)
+        {
+            txtLogin.Text = "";
+            txtSenha.Text = "";
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
