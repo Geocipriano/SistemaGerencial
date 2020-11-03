@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\SistemaGerencial\SistemaGerencial\bin\Debug\SistemaGerencial.exe.config
+C:\Users\usuario\source\repos\SistemaGerencial\SistemaGerencial\bin\Debug\SistemaGerencial.exe
+C:\Users\usuario\source\repos\SistemaGerencial\SistemaGerencial\bin\Debug\SistemaGerencial.pdb
+C:\Users\usuario\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.frmLogin.resources
+C:\Users\usuario\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.Properties.Resources.resources
+C:\Users\usuario\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.exe
+C:\Users\usuario\source\repos\SistemaGerencial\SistemaGerencial\obj\Debug\SistemaGerencial.pdb
